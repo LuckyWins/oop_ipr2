@@ -1,0 +1,7 @@
+C:\Users\Krompy\Documents\2 курс 2 семестр\OOP\Lab_4\Dlls\MainDll\MainDll\bin\Debug\MainDll.dll
+C:\Users\Krompy\Documents\2 курс 2 семестр\OOP\Lab_4\Dlls\MainDll\MainDll\bin\Debug\MainDll.pdb
+C:\Users\Krompy\Documents\2 курс 2 семестр\OOP\Lab_4\Dlls\MainDll\MainDll\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Krompy\Documents\2 курс 2 семестр\OOP\Lab_4\Dlls\MainDll\MainDll\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Krompy\Documents\2 курс 2 семестр\OOP\Lab_4\Dlls\MainDll\MainDll\obj\Debug\MainDll.csprojResolveAssemblyReference.cache
+C:\Users\Krompy\Documents\2 курс 2 семестр\OOP\Lab_4\Dlls\MainDll\MainDll\obj\Debug\MainDll.dll
+C:\Users\Krompy\Documents\2 курс 2 семестр\OOP\Lab_4\Dlls\MainDll\MainDll\obj\Debug\MainDll.pdb

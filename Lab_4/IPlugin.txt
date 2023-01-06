@@ -1,0 +1,16 @@
+IPlugin
+abstract methods
+
+Plugin
+- Manager
+implement IPlugin
+new Loader
+new Book
+"Book"
+"Parent"
+new Signature
+
+
+
+HorrorPlugin.dll через SHA-1. Хэш и дату создания dll в HorrorPlugin.txt (или HorrorPlugin.anything).
+Когда загружаешь плагин, читает txt, прогоняет dll через SHA-1, получает хэш и сравнивает с данными из txt. Если все сходится, то можно подключать. Нет - ошибка.
